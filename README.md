@@ -1,5 +1,5 @@
 # pathpad
 idk silly name -HC pathfinder project repo
 ![schematicyay](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![schematicyay](image-1.png)
+![schematicyay](image-2.png)
